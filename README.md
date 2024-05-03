@@ -1,5 +1,5 @@
 # Personal-AI-assistant
-## AI-powered personal assistant  is Jarvis that can perform a variety of tasks. It is designed to simplify your daily routine by automating repetitive tasks, providing information by wikipedia, and assisting with various actions. This readme file contains instructions on how to set up and use Jarvis on your local machine.
+## AI-powered personal assistant  is Jarvis that can perform a variety of tasks. It is designed to simplify your daily routine by automating repetitive tasks, providing information by wikipedia, and assisting with various actions. This readme file contains instructions on how to set up and use Jarvis on your local machine this project is bulit in python.
 
 # Prerequisites
 ## Before getting started with Jarvis, make sure you have the following:
